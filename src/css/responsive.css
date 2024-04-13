@@ -1,0 +1,33 @@
+@media (max-width: 770px){
+
+    .container{
+        background: url(../images/bg-mobile.svg) no-repeat;
+        background-size: cover;      
+    }
+    .header{
+        justify-content: flex-start;
+    }
+    .header img{
+        width: 35%;
+    }
+    .info {
+        flex-direction: column;
+    }
+    .info img{
+        width: 100%;
+    }
+    .text h1{
+        text-align: center;
+        font-size: 10px;
+    }
+    .text p{
+        text-align: center;
+    }
+    .text .btn{
+        text-align: center;
+    }
+    .footer{
+        width: 50%;
+        margin-left: 120px;
+    } 
+}  

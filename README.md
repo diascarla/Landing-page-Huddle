@@ -4,9 +4,9 @@ Projeto para desenvolver uma landing page com os arquivos fornecidos pelo site F
 Foi desenvolvida uma página para desktop e um responsivo para mobile.
 Com ícones clicáveis.
 ### Desktop
-[<img src="./Animação-tela-desktop.gif" alt="tela do projeto landing page huddle">]
+<img src="./Animação-tela-desktop.gif" alt="tela do projeto landing page huddle">
 ### Mobile
-[<img src="./Animação-tela-mobile.gif" alt="tela do projeto landing page huddle">]
+<img src="./Animação-tela-mobile.gif" alt="tela do projeto landing page huddle">
 ## Tecnologias utilizadas
 - HTML
 - CSS

@@ -1,5 +1,5 @@
 # Landing page Huddle
-## Descrição
+##  Descrição
 Projeto para desenvolver uma landing page com os arquivos fornecidos pelo site Frontend Mentor, com o objetivo de mostrar e praticar os conhecimentos adquiridos no curso DevQuest.
 Foi desenvolvida uma página para desktop e um responsivo para mobile.
 Com ícones clicáveis.
@@ -13,14 +13,14 @@ Com ícones clicáveis.
 ### Cores
 - Violeta: hsl(257, 40%, 49%)
 - Magenta suave: hsl(300, 69%, 71%)
-## Tipografia
-### Títulos
+##  Tipografia
+###  Títulos
 - Fonte: Poppins
 - Pesos: 400, 600
-### Texto
+###  Texto
 - Fonte: Open Sans
 - Pesos: 400
-### Ícones
+###  Ícones
 - FontAwesome
 
 ### Desafios

@@ -3,10 +3,15 @@ html{
     color: #ffff;
 }
 body{
-    background: var(--primary-violet) url(../images/bg-desktop.svg) no-repeat;
+    max-width: 1440px;
+    background: var(--primary-violet) url(../images/bg-desktop.svg) center center no-repeat;
     background-size: cover;
 }
+.container{
+    max-width: 1440px;
+}
 .header{
+    max-width: 1440px;
     display: flex;
 }
 .header img{
@@ -40,6 +45,7 @@ body{
 }
 .text .btn{
     margin: 40px 35px;
+    transition: 0.3s ease-in-out;
 }
 .text .btn a{
     font-family: 'poppins', sans-serif;
@@ -49,11 +55,12 @@ body{
     border-radius: 50px;
     background-color: #ffff;
     padding: 15px 64px;
-    box-shadow: black 0 2px;
+    box-shadow:  rgb(83, 79, 79) 0 2px ;
     transition: 0.3s ease-in-out;
 }
 .text .btn a:hover{
     background-color: var(--primary-soft-magenta);
+    color: #ffff;
 }
 .footer{ 
     display: flex;
@@ -65,7 +72,7 @@ body{
     border-radius: 50px;
     font-size: 1.5rem;
     transition: 0.3s ease-in-out;
-    margin: 20px;
+    margin: 12px;
     width: 40px;
     height: 40px;
     display: flex;

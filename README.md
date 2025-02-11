@@ -13,16 +13,6 @@ Com ícones clicáveis.
 ## Tecnologias utilizadas
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-### Mobile
-<img src="./Animação-tela-mobile.gif" alt="tela do projeto landing page huddle">
-
-## Mobile
-<img src="./Animação-tela-mobile.gif" alt="tela do projeto landing page huddle">
-
-## Tecnologias utilizadas
-
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
 ## Desafios
 Criar esse projeto foi bem desafiador, demorei um tempo, acredito que acima da média, para conseguir desenvolver. Mas esse tempo me trouxe muitas experiências e resiliência, aprendi a ter mais paciência comigo mesma, pesquisei bastante, refis algumas aulas. Refiz várias vezes o projeto, mas ao final fiquei orgulhosa de ter alcançado o meu objetivo e ter me superado.
 Foi gratificante conseguir desenvolver a página.

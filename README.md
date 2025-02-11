@@ -12,12 +12,15 @@ Com ícones clicáveis.
 
 ## Tecnologias utilizadas
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
 ### Mobile
 <img src="./Animação-tela-mobile.gif" alt="tela do projeto landing page huddle">
-=======
+
 ## Mobile
 <img src="./Animação-tela-mobile.gif" alt="tela do projeto landing page huddle">
+
 ## Tecnologias utilizadas
+
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## Desafios
